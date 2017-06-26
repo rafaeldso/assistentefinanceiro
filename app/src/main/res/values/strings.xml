@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assistente Financeiro</string>
+    <string name="no_accounts">No Account</string>
+    <string name="menuitem_add">Add</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="menuitem_send">Send</string>
+    <string name="button_save_acc">Save Account</string>
+    <string name="hint_name">Title (Required)</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_type">Type</string>
+    <string name="hint_value">Value</string>
+    <string name="label_name">Title:</string>
+    <string name="label_description">Description:</string>
+    <string name="label_type">Type:</string>
+    <string name="label_value">Value:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the account</string>
+    <string name="send_confirm_title">Are You Sure?</string>
+    <string name="send_confirm_message">This will backup the accounts by email</string>
+    <string name="ok">OK</string>
+    <string name="error_message">You must enter a account title</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_send">Send</string>
+    <string name="prompt">Choose a type</string>
+
+    <string-array name="types_array">
+        <item>Expense</item>
+        <item>Revenue</item>
+    </string-array>
+</resources>
